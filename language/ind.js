@@ -1,5 +1,5 @@
 exports.wait = () => {
-	return`*「❗」WAIT MWONU*`
+	return`*「❗」WAIT CHEYY*`
 }
 
 exports.succes = () => {
@@ -15,27 +15,27 @@ exports.lvloff = () => {
 }
 
 exports.lvlnul = () => {
-	return`*「❗」LEVELMU MASIH KOSONG*`
+	return`*「❗」YOUR LEVEL IS STILL EMPTY*`
 }
 
 exports.lvlnoon = () => {
-	return`*「❗」LEVEL DI GRUB BELUM DI AKTIFKAN*`
+	return`*「❗」GRUB LEVEL IS NOT ACTIVATED YET*`
 }
 
 exports.noregis = () => {
-	return`*「❗」NOT REGISTERED*\n*TO REGISTER ${prefix}register name/age* \n\n*example ${prefix}register ABHI/18*`
+	return`*「❗」NOT REGISTERED*\n*TO REGISTER ${prefix}register name/age* \n\n*example ${prefix}register Vai/20*`
 }
 
 exports.baned = () => {
-	return`*「❗」SORRY MWONUSE, YOU ARE BANNED HU HU HU :V*`
+	return`*「❗」SORRY MWTHE, YOU ARE BANNED HU HU HU :V*`
 }
 
 exports.rediregis = () => {
-	return`*「 ALREADY REGISTERED 」*\n\n*you have registered >_<*`
+	return`*「 ALREADY REGISTERED 」*\n\n*you have registered previously >_<*`
 }
 
 exports.stikga = () => {
-	return`*「 FAILED 」Try again next time bro*`
+	return`*「 FAILED 」Better Luck Next Time brou*`
 }
 
 exports.linkga = () => {
@@ -47,15 +47,15 @@ exports.groupo = () => {
 }
 
 exports.ownerb = () => {
-	return`*「❗」OWNER BOT ONLY*`
+	return`*「❗」BOT OWNER ONLY*`
 }
 
 exports.ownerg = () => {
-	return`*「❗」OWNER GROUP ONLY*`
+	return`*「❗」GROUP OWNER ONLY*`
 }
 
 exports.admin = () => {
-	return`*「❗」ADMIN GROUP ONLY*`
+	return`*「❗」GROUP ADMIN ONLY*`
 }
 
 exports.badmin = () => {
@@ -67,7 +67,7 @@ exports.nsfwoff = () => {
 }
 
 exports.bug = () => {
-	return`*Masalah telah di laporkan ke owner BOT, laporan palsu/main2 tidak akan ditanggapi*`
+	return`*Any issue,contact owner*`
 }
 
 exports.wrongf = () => {
@@ -79,11 +79,11 @@ exports.clears = () => {
 }
 
 exports.pc = () => {
-	return`*「❗」REGISTRATION*\n\nuntuk mengetahui apa kamu sudah terdaftar silahkah check message yang saya kirim \n\nNOTE:\n*jika kamu belum mendapatkan pesan. berarti kamu belum menyimpan nomer bot*`
+	return`*「❗」REGISTRATION*\n\nTo find out if you have registered please check the message I sent\n\nNOTE:\n*if you haven't got the message. means you haven't saved your bot number*`
 }
 
 exports.registered = (username, userage, serialUser, time, sender, botName) => {
-	return`*「 SUCCESSFUL REGISTRATION 」*\n User Info :\n\n*➸ Name : ${username}*\n*➸ Number : wa.me/${sender.split("@")[0]}*\n*➸ userage : ${userage}*\n*➸ time  : ${time}*\n\n*「SN」: ${serialUser}*\n_NOTE : MADE BY ABHI :v_`
+	return`*「 SUCCESSFUL REGISTRATION 」*\n User Info :\n\n*➸ Name : ${username}*\n*➸ Number : wa.me/${sender.split("@")[0]}*\n*➸ user age : ${userage}*\n*➸ time  : ${time}*\n\n*「SN」: ${serialUser}*\n_NOTE : Nere chovve use cheythillel ban akkum ha :v_`
 }
 
 exports.cmdnf = (prefix, command) => {
@@ -95,29 +95,29 @@ exports.owneresce = (pushname) => {
 }
 exports.levelup = (pushname, sender, getLevelingXp,  getLevel, getLevelingLevel) => {
 	return`
-*「 SELAMAT 」*
-➸ *Nama* : ${pushname}
-➸ *Nomor* : wa.me/${sender.split("@")[0]}
+*「 Greetings 」*
+➸ *Name* : ${pushname}
+➸ *Number* : wa.me/${sender.split("@")[0]}
 ➸ *Xp* : ${getLevelingXp(sender)}
 ➸ *Level* : ${getLevel} ➸ ${getLevelingLevel(sender)}
 `}
  
 exports.limitend = (pushname) => {
-	return`*maaf ${pushname} limit hari ini habis*\n*limit di reset setiap jam 24:00*`
+	return`*Sory ${pushname} limit finished*\n*limit will reset at 24:00*`
 }
 
 exports.limitcount = (limitCounts) => {
 	return`
 *「 LIMIT COUNT 」*
-sisa limit anda : ${limitCounts}
+the rest of your limit : ${limitCounts}
 
-Upgrade premium bosku, biar bebas gunain bot`
+This is a premium, free to use bot`
 }
 
 exports.satukos = () => {
-	return`*Tambah parameter 1/enable atau 0/disable`
+	return`*Add parameter 1 / enable or 0 / disable`
 }
 
 exports.uangkau = (pushname, sender, uangkau) => {
-	return`┏━━━━━━━♡ *ATM* ♡━━━━━━━┓\n┃╭───────────────────\n┃│➸ NAMA : ${pushname}\n┃│➸ NOMOR : ${sender.split("@")[0]}\n┃│➸ UANG : ${uangkau}\n┃╰───────────────────\n┗━━━━━━━━━━━━━━━━━━━━┛`
+	return`┏━━━━━━━♡ *ATM* ♡━━━━━━━┓\n┃╭───────────────────\n┃│➸ NAME : ${pushname}\n┃│➸ NUMBER : ${sender.split("@")[0]}\n┃│➸ CREDITS : ${uangkau}\n┃╰───────────────────\n┗━━━━━━━━━━━━━━━━━━━━┛`
 }
