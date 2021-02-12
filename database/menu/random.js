@@ -1,6 +1,6 @@
 const random = (pushname, prefix, botName, ownerName, getLevelingLevel, sender, _registered) => {
 	return `🔰 -----[ *RANDOM MENU* ]----- 🔰
-Hallo, ${pushname} 👋
+Hello, ${pushname} 👋
 Have a nice day for users, ${sender.split("@")[0]}
 ┏━━━━━━━━━━━━━━━━━━━━┓
 ┃╭───────────────────
@@ -9,7 +9,7 @@ Have a nice day for users, ${sender.split("@")[0]}
 ┃│➸ USER ${botName} : ${_registered.length}
 ┃╰───────────────────
 ┗━━━━━━━━━━━━━━━━━━━━┛
-The following are the features of the bot (Bot will be on when abhi is online!✨
+The following are the features of the bot!✨
 ┏━━━━━━━━━━━━━━━━━━━━┓
 ┃╭───────────────────
 ┃│➸ *${prefix}randomhentong*
