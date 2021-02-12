@@ -15,7 +15,6 @@ TYPE *${prefix}command*
 ┃╭───────────────────
 ┃│➸ *${prefix}play*
 ┃│➸ *${prefix}yt*
-┃│➸ *${prefix}tiktod*
 ┃╰───────────────────
 ┗━━━━━━━━━━━━━━━━━━━━┛
 🔰 -----[ *POWERED BY ${ownerName}* ]----- 🔰`
