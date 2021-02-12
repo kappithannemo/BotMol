@@ -543,7 +543,7 @@ switch(command) {
 				if (!isRegistered) return reply(ind.noregis())			
 					await costum(download(pushname, prefix, botName, ownerName, getLevelingLevel, sender, _registered), text, tescuk, cr)
 					break
-                case 'pursemenu':
+                case 'dompetmenu':
                 if (isBanned) return reply(ind.baned())
 				if (!isRegistered) return reply(ind.noregis())			
 					await costum(dompet(pushname, prefix, botName, ownerName, getLevelingLevel, sender, _registered), text, tescuk, cr)
