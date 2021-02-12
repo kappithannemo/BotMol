@@ -21,9 +21,7 @@ If you don't understand, type * $ {prefix} confused*
 ┃│➸ *${prefix}tts*
 ┃│➸ *${prefix}toimg*
 ┃│➸ *${prefix}nulis*
-┃│➸ *${prefix}stalkig*
 ┃│➸ *${prefix}quotes*
-┃│➸ *${prefix}bikinquote*
 ┃╰───────────────────
 ┗━━━━━━━━━━━━━━━━━━━━┛
 🔰 -----[ *POWERED BY ${ownerName}* ]----- 🔰`
