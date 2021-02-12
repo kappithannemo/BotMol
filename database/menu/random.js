@@ -17,7 +17,6 @@ The following are the features of the bot!✨
 ┃│➸ *${prefix}wibu*
 ┃│➸ *${prefix}loli*
 ┃│➸ *${prefix}neko*
-┃│➸ *${prefix}18+*
 ┃│➸ *${prefix}husbu*
 ┃│➸ *${prefix}kpop*
 ┃│➸ *${prefix}anjing*
