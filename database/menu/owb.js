@@ -1,6 +1,6 @@
 const owb = (pushname, prefix, botName, ownerName, getLevelingLevel, sender, _registered) => {
 	return `🔰 -----[ *OWNER MENU* ]----- 🔰
-Hallo, ${pushname} 👋
+Hello, ${pushname} 👋
 Have a nice day for users, ${sender.split("@")[0]}
 ┏━━━━━━━━━━━━━━━━━━━━┓
 ┃╭───────────────────
