@@ -18,7 +18,7 @@ If you don't understand, type *${prefix}command*
 ┃│➸ *${prefix}event* ⟪ 1/0 ⟫
 ┃│➸ *${prefix}simih* ⟪ 1/0 ⟫
 ┃│➸ *${prefix}nsfw* ⟪ 1/0 ⟫
-┃│➸ *${prefix}grup* ⟪ buka/tutup ⟫
+┃│➸ *${prefix}grup* ⟪ open/close ⟫
 ┃│➸ *${prefix}add*
 ┃│➸ *${prefix}kick*
 ┃│➸ *${prefix}hedsot*
@@ -31,7 +31,6 @@ If you don't understand, type *${prefix}command*
 ┃│➸ *${prefix}tagall*
 ┃│➸ *${prefix}admin*
 ┃│➸ *${prefix}level*
-┃│➸ *${prefix}fitnah*
 ┃│➸ *${prefix}hidetag*
 ┃│➸ *${prefix}hidetag5*
 ┃╰───────────────────
