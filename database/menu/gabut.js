@@ -12,9 +12,6 @@ Have a nice day for users, ${sender.split("@")[0]}
 The following are the features of this bot!✨
 ┏━━━━━━━━━━━━━━━━━━━━┓
 ┃╭───────────────────
-┃│➸ *${prefix}apakah*
-┃│➸ *${prefix}bisakah*
-┃│➸ *${prefix}kapankah*
 ┃│➸ *${prefix}hobby*
 ┃│➸ *${prefix}rate*
 ┃│➸ *${prefix}seberapagay*
