@@ -17,8 +17,6 @@ The following are the features of this bot!✨
 ┃│➸ *${prefix}bitly*
 ┃│➸ *${prefix}moddroid*
 ┃│➸ *${prefix}happymod*
-┃│➸ *${prefix}resepmakanan*
-┃│➸ *${prefix}beritahoax*
 ┃│➸ *${prefix}mutual*
 ┃│➸ *${prefix}next*
 ┃│➸ *${prefix}virtex*
