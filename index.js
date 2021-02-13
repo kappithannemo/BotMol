@@ -718,7 +718,7 @@ switch(command) {
   'Believe you can and you are halfway there. Theodore Roosevelt',
   'It’s fun to do the impossible. Walt Disney',
   'There is nothing impossible to him who will try. Alexander the Great',
-  'You are what you believe yourself to be. Paulo Coelho,
+  'You are what you believe yourself to be. Paulo Coelho',
 'Stumbling is not falling. Malcolm X']
 				const tes = quo[Math.floor(Math.random() * quo.length)]
 				client.sendMessage(from, ''+tes+'\n\n_By : ⸸Bot⸸Mol._', text, { quoted: mek })
